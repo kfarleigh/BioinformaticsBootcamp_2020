@@ -9,5 +9,6 @@ RDA is a multivariate ordination technique that can analyze many loci and enviro
 ![RDA_Concept](https://user-images.githubusercontent.com/54188848/88552471-22bbf500-cff2-11ea-9042-72b145f037b4.JPG)
 
 ### Things to consider before you start your analysis
-What is your sampling design? RDA can accommodate both individual and population based sampling designs, though your preperation before RDA will be different depending on your sampling. Individual based sampling will use allele counts, whereas population sampling will use allele frequencies within demes. 
-Does linkage disequlibrium affect your dataset? 
+1. What is your sampling design? 
+RDA can accommodate both individual and population based sampling designs, though your preperation before RDA will be different depending on your sampling. Individual based sampling will use allele counts, whereas population sampling will use allele frequencies within demes. 
+2. Does linkage disequlibrium affect your dataset? 
