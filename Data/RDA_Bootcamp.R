@@ -1,3 +1,9 @@
+install.packages(c("psych","vegan", "dplyr"), dependencies=TRUE)
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+
 
 library(psych)
 library(vegan)
