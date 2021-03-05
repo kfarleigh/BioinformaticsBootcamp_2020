@@ -304,6 +304,9 @@ legend("bottomright", legend= c("AMT", "TS", "PWQ", "PCQ"), bty="n", col="gray32
 
 Again, we interpret this plot like the individual plot. The colored SNPs are our candidates, while the gray SNPs are neutral. Note that some of the candidates do not load strongly onto RDA axis 1 or 2. We expect that those candidates load strongly on another of the RDA axes. 
 
+## Funding for this Presentation
+Support for this project was provided by the National Science Foundation Graduate Research Fellowship (Award #2037786)
+
 ## References
 
 Chang, C. C., Chow, C. C., Tellier, L. C., Vattikuti, S., Purcell, S. M., & Lee, J. J. (2015). Second-generation PLINK: rising to the challenge of larger and richer datasets. Gigascience, 4(1), s13742-015.
